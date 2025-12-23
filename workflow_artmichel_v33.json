@@ -137,7 +137,7 @@
       "outputs": [{ "localized_name": "ACONDICIONAMIENTO", "name": "CONDITIONING", "type": "CONDITIONING", "slot_index": 0, "links": [46] }],
       "title": "CLIP Text Encode (Positive Prompt)",
       "properties": { "Node name for S&R": "CLIPTextEncode", "cnr_id": "comfy-core", "ver": "0.3.34" },
-      "widgets_values": ["A young man sits confidently and calmly on an ornate gold baroque-style throne inside a modern, minimalist interior. He wears sleek urban clothing: a black jacket, light gray t-shirt, black pants, and beige sneakers, along with dark sunglasses that convey confidence, power, and control.\n\nBehind him, through a large floor-to-ceiling window, a deep blue nighttime sky is visible with palm trees in silhouette. A black blimp slowly drifts across the sky, displaying a glowing white message: “THE WORLD IS YOURS…”.\n\nThe camera starts with a centered medium frontal shot and performs a slow, cinematic dolly-in toward the subject. Warm lighting highlights the gold details of the throne, while cool blue lighting fills the exterior background, creating a dramatic color contrast.\n\nThe atmosphere feels powerful, ambitious, and aspirational. The man remains still, breathing calmly, while the blimp moves smoothly and the text glows subtly. Cinematic style, ultra-realistic, shallow depth of field, professional lighting, modern luxury aesthetic, epic tone, 4K quality, subtle motion blur, contemporary dramatic film look."],
+      "widgets_values": ["YOUR PROMPT HERE"],
       "color": "#232",
       "bgcolor": "#353"
     },
